@@ -1,8 +1,8 @@
-# Install Third Party Updates Script
+# Add Contacts to Active Directory
 # Author: John Patrick McCarthy
 # <http://www.midactstech.blogspot.com> <https://www.github.com/Midacts>
-# Date: 20th May, 2013
-# Version 1.3
+# Date: 24th February, 2014
+# Version 1.0
 #
 # To God only wise, be glory through Jesus Christ forever. Amen.
 #
