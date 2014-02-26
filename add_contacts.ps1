@@ -1,3 +1,13 @@
+# Install Third Party Updates Script
+# Author: John Patrick McCarthy
+# <http://www.midactstech.blogspot.com> <https://www.github.com/Midacts>
+# Date: 20th May, 2013
+# Version 1.3
+#
+# To God only wise, be glory through Jesus Christ forever. Amen.
+#
+# Romans 16:27 ; I Corinthians 15:1-4
+#----------------------------------------------------------------
 #---------------------#
 #		      #
 #  Creating Contacts  #
